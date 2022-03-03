@@ -10,7 +10,7 @@
 		"readability-extractor": "./readability-extractor"
 	},
 	"dependencies": {
-		"@mozilla/readability": "^0.4.1",
+		"@mozilla/readability": "^0.4.2",
 		"jsdom": "^16.5.3",
 		"dompurify": "^2.2.8"
 	}
