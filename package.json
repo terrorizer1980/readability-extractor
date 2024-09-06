@@ -11,7 +11,7 @@
 	},
 	"dependencies": {
 		"@mozilla/readability": "^0.4.1",
-		"jsdom": "^16.5.3",
+		"jsdom": "^24.1.1",
 		"dompurify": "^2.2.8"
 	}
 }
